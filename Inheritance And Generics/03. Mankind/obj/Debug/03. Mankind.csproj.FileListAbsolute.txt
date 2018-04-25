@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\INHERITANCE AND GENERICS\03. Mankind\bin\Debug\_03.Mankind.exe.config
+C:\Users\Gabriela\source\repos\INHERITANCE AND GENERICS\03. Mankind\bin\Debug\_03.Mankind.exe
+C:\Users\Gabriela\source\repos\INHERITANCE AND GENERICS\03. Mankind\bin\Debug\_03.Mankind.pdb
+C:\Users\Gabriela\source\repos\INHERITANCE AND GENERICS\03. Mankind\obj\Debug\03. Mankind.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\INHERITANCE AND GENERICS\03. Mankind\obj\Debug\03. Mankind.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\INHERITANCE AND GENERICS\03. Mankind\obj\Debug\_03.Mankind.exe
+C:\Users\Gabriela\source\repos\INHERITANCE AND GENERICS\03. Mankind\obj\Debug\_03.Mankind.pdb

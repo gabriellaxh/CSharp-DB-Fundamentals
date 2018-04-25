@@ -1,0 +1,6 @@
+C:\Users\Gabriela\source\repos\INHERITANCE AND GENERICS\02. Book Shop\bin\Debug\_02.Book_Shop.exe.config
+C:\Users\Gabriela\source\repos\INHERITANCE AND GENERICS\02. Book Shop\bin\Debug\_02.Book_Shop.exe
+C:\Users\Gabriela\source\repos\INHERITANCE AND GENERICS\02. Book Shop\bin\Debug\_02.Book_Shop.pdb
+C:\Users\Gabriela\source\repos\INHERITANCE AND GENERICS\02. Book Shop\obj\Debug\02. Book Shop.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\INHERITANCE AND GENERICS\02. Book Shop\obj\Debug\_02.Book_Shop.exe
+C:\Users\Gabriela\source\repos\INHERITANCE AND GENERICS\02. Book Shop\obj\Debug\_02.Book_Shop.pdb

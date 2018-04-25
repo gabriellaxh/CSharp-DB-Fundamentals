@@ -1,0 +1,13 @@
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\14. Delete Project by Id\bin\Debug\netcoreapp2.0\14. Delete Project by Id.deps.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\14. Delete Project by Id\bin\Debug\netcoreapp2.0\14. Delete Project by Id.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\14. Delete Project by Id\bin\Debug\netcoreapp2.0\14. Delete Project by Id.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\14. Delete Project by Id\bin\Debug\netcoreapp2.0\14. Delete Project by Id.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\14. Delete Project by Id\bin\Debug\netcoreapp2.0\14. Delete Project by Id.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\14. Delete Project by Id\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\14. Delete Project by Id\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\14. Delete Project by Id\obj\Debug\netcoreapp2.0\14. Delete Project by Id.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\14. Delete Project by Id\obj\Debug\netcoreapp2.0\14. Delete Project by Id.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\14. Delete Project by Id\obj\Debug\netcoreapp2.0\14. Delete Project by Id.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\14. Delete Project by Id\obj\Debug\netcoreapp2.0\14. Delete Project by Id.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\14. Delete Project by Id\obj\Debug\netcoreapp2.0\14. Delete Project by Id.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\14. Delete Project by Id\obj\Debug\netcoreapp2.0\14. Delete Project by Id.pdb

@@ -1,0 +1,14 @@
+c:\users\gabriela\source\repos\CSHARP OOP INTRO EXERCISE\CSHARP OOP INTRO EXERCISE\bin\Debug\CSHARP OOP INTRO EXERCISE.exe.config
+c:\users\gabriela\source\repos\CSHARP OOP INTRO EXERCISE\CSHARP OOP INTRO EXERCISE\bin\Debug\CSHARP OOP INTRO EXERCISE.exe
+c:\users\gabriela\source\repos\CSHARP OOP INTRO EXERCISE\CSHARP OOP INTRO EXERCISE\bin\Debug\CSHARP OOP INTRO EXERCISE.pdb
+c:\users\gabriela\source\repos\CSHARP OOP INTRO EXERCISE\CSHARP OOP INTRO EXERCISE\obj\Debug\01.  Oldest Family Member.csprojResolveAssemblyReference.cache
+c:\users\gabriela\source\repos\CSHARP OOP INTRO EXERCISE\CSHARP OOP INTRO EXERCISE\obj\Debug\01.  Oldest Family Member.csproj.CoreCompileInputs.cache
+c:\users\gabriela\source\repos\CSHARP OOP INTRO EXERCISE\CSHARP OOP INTRO EXERCISE\obj\Debug\CSHARP OOP INTRO EXERCISE.exe
+c:\users\gabriela\source\repos\CSHARP OOP INTRO EXERCISE\CSHARP OOP INTRO EXERCISE\obj\Debug\CSHARP OOP INTRO EXERCISE.pdb
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\01. Oldest Family Member\bin\Debug\CSHARP OOP INTRO EXERCISE.exe.config
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\01. Oldest Family Member\bin\Debug\CSHARP OOP INTRO EXERCISE.exe
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\01. Oldest Family Member\bin\Debug\CSHARP OOP INTRO EXERCISE.pdb
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\01. Oldest Family Member\obj\Debug\01.  Oldest Family Member.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\01. Oldest Family Member\obj\Debug\01.  Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\01. Oldest Family Member\obj\Debug\CSHARP OOP INTRO EXERCISE.exe
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\01. Oldest Family Member\obj\Debug\CSHARP OOP INTRO EXERCISE.pdb

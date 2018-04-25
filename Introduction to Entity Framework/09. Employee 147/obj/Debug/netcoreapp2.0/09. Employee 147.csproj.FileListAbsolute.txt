@@ -1,0 +1,13 @@
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\09. Employee 147\bin\Debug\netcoreapp2.0\09. Employee 147.deps.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\09. Employee 147\bin\Debug\netcoreapp2.0\09. Employee 147.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\09. Employee 147\bin\Debug\netcoreapp2.0\09. Employee 147.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\09. Employee 147\bin\Debug\netcoreapp2.0\09. Employee 147.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\09. Employee 147\bin\Debug\netcoreapp2.0\09. Employee 147.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\09. Employee 147\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\09. Employee 147\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\09. Employee 147\obj\Debug\netcoreapp2.0\09. Employee 147.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\09. Employee 147\obj\Debug\netcoreapp2.0\09. Employee 147.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\09. Employee 147\obj\Debug\netcoreapp2.0\09. Employee 147.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\09. Employee 147\obj\Debug\netcoreapp2.0\09. Employee 147.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\09. Employee 147\obj\Debug\netcoreapp2.0\09. Employee 147.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\09. Employee 147\obj\Debug\netcoreapp2.0\09. Employee 147.pdb

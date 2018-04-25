@@ -1,0 +1,12 @@
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\10. Departments with More Than 5 Employees\bin\Debug\netcoreapp2.0\10. Departments with More Than 5 Employees.deps.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\10. Departments with More Than 5 Employees\bin\Debug\netcoreapp2.0\10. Departments with More Than 5 Employees.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\10. Departments with More Than 5 Employees\bin\Debug\netcoreapp2.0\10. Departments with More Than 5 Employees.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\10. Departments with More Than 5 Employees\bin\Debug\netcoreapp2.0\10. Departments with More Than 5 Employees.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\10. Departments with More Than 5 Employees\bin\Debug\netcoreapp2.0\10. Departments with More Than 5 Employees.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\10. Departments with More Than 5 Employees\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\10. Departments with More Than 5 Employees\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\10. Departments with More Than 5 Employees\obj\Debug\netcoreapp2.0\10. Departments with More Than 5 Employees.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\10. Departments with More Than 5 Employees\obj\Debug\netcoreapp2.0\10. Departments with More Than 5 Employees.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\10. Departments with More Than 5 Employees\obj\Debug\netcoreapp2.0\10. Departments with More Than 5 Employees.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\10. Departments with More Than 5 Employees\obj\Debug\netcoreapp2.0\10. Departments with More Than 5 Employees.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\10. Departments with More Than 5 Employees\obj\Debug\netcoreapp2.0\10. Departments with More Than 5 Employees.pdb

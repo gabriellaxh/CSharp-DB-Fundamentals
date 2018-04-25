@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\netcoreapp2.0\Introduction to Entity Framework.deps.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\netcoreapp2.0\Introduction to Entity Framework.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\netcoreapp2.0\Introduction to Entity Framework.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\netcoreapp2.0\Introduction to Entity Framework.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\Introduction to Entity Framework\obj\Debug\netcoreapp2.0\Introduction to Entity Framework.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\Introduction to Entity Framework\obj\Debug\netcoreapp2.0\Introduction to Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\Introduction to Entity Framework\obj\Debug\netcoreapp2.0\Introduction to Entity Framework.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\Introduction to Entity Framework\obj\Debug\netcoreapp2.0\Introduction to Entity Framework.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\netcoreapp2.0\Introduction to Entity Framework.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\Introduction to Entity Framework\obj\Debug\netcoreapp2.0\Introduction to Entity Framework.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\Introduction to Entity Framework\obj\Debug\netcoreapp2.0\Introduction to Entity Framework.pdb

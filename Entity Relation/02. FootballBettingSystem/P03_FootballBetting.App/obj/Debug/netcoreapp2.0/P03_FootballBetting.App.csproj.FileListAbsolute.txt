@@ -1,0 +1,15 @@
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\bin\Debug\netcoreapp2.0\P03_ FootballBetting.Data.dll
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\bin\Debug\netcoreapp2.0\P03_ FootballBetting.Data.Models.dll
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\obj\Debug\netcoreapp2.0\P03_FootballBetting.App.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\obj\Debug\netcoreapp2.0\P03_FootballBetting.App.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\obj\Debug\netcoreapp2.0\P03_FootballBetting.App.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\obj\Debug\netcoreapp2.0\P03_FootballBetting.App.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\bin\Debug\netcoreapp2.0\P03_FootballBetting.App.deps.json
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\bin\Debug\netcoreapp2.0\P03_FootballBetting.App.runtimeconfig.json
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\bin\Debug\netcoreapp2.0\P03_FootballBetting.App.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\bin\Debug\netcoreapp2.0\P03_FootballBetting.App.dll
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\bin\Debug\netcoreapp2.0\P03_FootballBetting.App.pdb
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\bin\Debug\netcoreapp2.0\P03_ FootballBetting.Data.Models.pdb
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\bin\Debug\netcoreapp2.0\P03_ FootballBetting.Data.pdb
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\obj\Debug\netcoreapp2.0\P03_FootballBetting.App.dll
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISESs\02.Football Betting\obj\Debug\netcoreapp2.0\P03_FootballBetting.App.pdb

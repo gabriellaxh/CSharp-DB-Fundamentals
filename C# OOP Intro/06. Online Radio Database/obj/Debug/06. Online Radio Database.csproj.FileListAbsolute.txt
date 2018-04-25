@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\06. Online Radio Database\obj\Debug\06. Online Radio Database.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\06. Online Radio Database\obj\Debug\06. Online Radio Database.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\06. Online Radio Database\bin\Debug\_06.Online_Radio_Database.exe.config
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\06. Online Radio Database\bin\Debug\_06.Online_Radio_Database.exe
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\06. Online Radio Database\bin\Debug\_06.Online_Radio_Database.pdb
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\06. Online Radio Database\obj\Debug\_06.Online_Radio_Database.exe
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\06. Online Radio Database\obj\Debug\_06.Online_Radio_Database.pdb

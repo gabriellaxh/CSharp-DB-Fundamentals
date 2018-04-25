@@ -1,0 +1,13 @@
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\08. Addresses by Town\bin\Debug\netcoreapp2.0\08. Addresses by Town.deps.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\08. Addresses by Town\bin\Debug\netcoreapp2.0\08. Addresses by Town.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\08. Addresses by Town\bin\Debug\netcoreapp2.0\08. Addresses by Town.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\08. Addresses by Town\bin\Debug\netcoreapp2.0\08. Addresses by Town.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\08. Addresses by Town\bin\Debug\netcoreapp2.0\08. Addresses by Town.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\08. Addresses by Town\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\08. Addresses by Town\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\08. Addresses by Town\obj\Debug\netcoreapp2.0\08. Addresses by Town.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\08. Addresses by Town\obj\Debug\netcoreapp2.0\08. Addresses by Town.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\08. Addresses by Town\obj\Debug\netcoreapp2.0\08. Addresses by Town.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\08. Addresses by Town\obj\Debug\netcoreapp2.0\08. Addresses by Town.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\08. Addresses by Town\obj\Debug\netcoreapp2.0\08. Addresses by Town.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\08. Addresses by Town\obj\Debug\netcoreapp2.0\08. Addresses by Town.pdb

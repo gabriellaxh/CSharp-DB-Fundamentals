@@ -1,0 +1,9 @@
+C:\Users\Gabriela\source\repos\01. AdvancedRelations\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.deps.json
+C:\Users\Gabriela\source\repos\01. AdvancedRelations\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\Gabriela\source\repos\01. AdvancedRelations\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
+C:\Users\Gabriela\source\repos\01. AdvancedRelations\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\01. AdvancedRelations\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\01. AdvancedRelations\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\01. AdvancedRelations\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\01. AdvancedRelations\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\Gabriela\source\repos\01. AdvancedRelations\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb

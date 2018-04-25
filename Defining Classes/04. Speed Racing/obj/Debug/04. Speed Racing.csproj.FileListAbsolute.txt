@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\01. Define a Class Person\04. Speed Racing\bin\Debug\_04.Speed_Racing.exe.config
+C:\Users\Gabriela\source\repos\01. Define a Class Person\04. Speed Racing\bin\Debug\_04.Speed_Racing.exe
+C:\Users\Gabriela\source\repos\01. Define a Class Person\04. Speed Racing\bin\Debug\_04.Speed_Racing.pdb
+C:\Users\Gabriela\source\repos\01. Define a Class Person\04. Speed Racing\obj\Debug\04. Speed Racing.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\01. Define a Class Person\04. Speed Racing\obj\Debug\04. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\01. Define a Class Person\04. Speed Racing\obj\Debug\_04.Speed_Racing.exe
+C:\Users\Gabriela\source\repos\01. Define a Class Person\04. Speed Racing\obj\Debug\_04.Speed_Racing.pdb

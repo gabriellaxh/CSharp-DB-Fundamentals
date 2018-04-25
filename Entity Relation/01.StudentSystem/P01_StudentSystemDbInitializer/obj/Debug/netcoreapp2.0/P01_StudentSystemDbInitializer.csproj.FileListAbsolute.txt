@@ -1,0 +1,13 @@
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\DataGenerator\bin\Debug\netcoreapp2.0\P01_StudentSystemDbInitializer.deps.json
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\DataGenerator\bin\Debug\netcoreapp2.0\P01_StudentSystemDbInitializer.dll
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\DataGenerator\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.dll
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\DataGenerator\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.dll
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\DataGenerator\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.pdb
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\DataGenerator\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.pdb
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\DataGenerator\obj\Debug\netcoreapp2.0\P01_StudentSystemDbInitializer.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\DataGenerator\obj\Debug\netcoreapp2.0\P01_StudentSystemDbInitializer.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\DataGenerator\obj\Debug\netcoreapp2.0\P01_StudentSystemDbInitializer.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\DataGenerator\obj\Debug\netcoreapp2.0\P01_StudentSystemDbInitializer.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\DataGenerator\bin\Debug\netcoreapp2.0\P01_StudentSystemDbInitializer.pdb
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\DataGenerator\obj\Debug\netcoreapp2.0\P01_StudentSystemDbInitializer.dll
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\DataGenerator\obj\Debug\netcoreapp2.0\P01_StudentSystemDbInitializer.pdb

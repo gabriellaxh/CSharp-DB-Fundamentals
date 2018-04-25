@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\01. Define a Class Person\03. Opinion Poll\bin\Debug\_03.Opinion_Poll.exe.config
+C:\Users\Gabriela\source\repos\01. Define a Class Person\03. Opinion Poll\bin\Debug\_03.Opinion_Poll.exe
+C:\Users\Gabriela\source\repos\01. Define a Class Person\03. Opinion Poll\bin\Debug\_03.Opinion_Poll.pdb
+C:\Users\Gabriela\source\repos\01. Define a Class Person\03. Opinion Poll\obj\Debug\03. Opinion Poll.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\01. Define a Class Person\03. Opinion Poll\obj\Debug\03. Opinion Poll.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\01. Define a Class Person\03. Opinion Poll\obj\Debug\_03.Opinion_Poll.exe
+C:\Users\Gabriela\source\repos\01. Define a Class Person\03. Opinion Poll\obj\Debug\_03.Opinion_Poll.pdb

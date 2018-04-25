@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\07. Animals\bin\Debug\_07.Animals.exe.config
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\07. Animals\bin\Debug\_07.Animals.exe
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\07. Animals\bin\Debug\_07.Animals.pdb
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\07. Animals\obj\Debug\07. Animals.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\07. Animals\obj\Debug\07. Animals.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\07. Animals\obj\Debug\_07.Animals.exe
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\07. Animals\obj\Debug\_07.Animals.pdb

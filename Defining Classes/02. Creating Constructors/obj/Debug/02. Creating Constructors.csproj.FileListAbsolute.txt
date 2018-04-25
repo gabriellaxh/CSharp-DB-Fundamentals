@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\01. Define a Class Person\02. Creating Constructors\bin\Debug\_02.Creating_Constructors.exe.config
+C:\Users\Gabriela\source\repos\01. Define a Class Person\02. Creating Constructors\bin\Debug\_02.Creating_Constructors.exe
+C:\Users\Gabriela\source\repos\01. Define a Class Person\02. Creating Constructors\bin\Debug\_02.Creating_Constructors.pdb
+C:\Users\Gabriela\source\repos\01. Define a Class Person\02. Creating Constructors\obj\Debug\02. Creating Constructors.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\01. Define a Class Person\02. Creating Constructors\obj\Debug\02. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\01. Define a Class Person\02. Creating Constructors\obj\Debug\_02.Creating_Constructors.exe
+C:\Users\Gabriela\source\repos\01. Define a Class Person\02. Creating Constructors\obj\Debug\_02.Creating_Constructors.pdb

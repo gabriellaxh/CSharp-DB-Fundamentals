@@ -1,0 +1,12 @@
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\11. Find Latest 10 Projects\bin\Debug\netcoreapp2.0\11. Find Latest 10 Projects.deps.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\11. Find Latest 10 Projects\bin\Debug\netcoreapp2.0\11. Find Latest 10 Projects.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\11. Find Latest 10 Projects\bin\Debug\netcoreapp2.0\11. Find Latest 10 Projects.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\11. Find Latest 10 Projects\bin\Debug\netcoreapp2.0\11. Find Latest 10 Projects.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\11. Find Latest 10 Projects\bin\Debug\netcoreapp2.0\11. Find Latest 10 Projects.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\11. Find Latest 10 Projects\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\11. Find Latest 10 Projects\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\11. Find Latest 10 Projects\obj\Debug\netcoreapp2.0\11. Find Latest 10 Projects.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\11. Find Latest 10 Projects\obj\Debug\netcoreapp2.0\11. Find Latest 10 Projects.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\11. Find Latest 10 Projects\obj\Debug\netcoreapp2.0\11. Find Latest 10 Projects.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\11. Find Latest 10 Projects\obj\Debug\netcoreapp2.0\11. Find Latest 10 Projects.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\11. Find Latest 10 Projects\obj\Debug\netcoreapp2.0\11. Find Latest 10 Projects.pdb

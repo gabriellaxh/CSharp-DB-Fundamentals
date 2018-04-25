@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\04. Pizza Calories\bin\Debug\_04.Pizza_Calories.exe.config
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\04. Pizza Calories\bin\Debug\_04.Pizza_Calories.exe
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\04. Pizza Calories\bin\Debug\_04.Pizza_Calories.pdb
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\04. Pizza Calories\obj\Debug\04. Pizza Calories.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\04. Pizza Calories\obj\Debug\04. Pizza Calories.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\04. Pizza Calories\obj\Debug\_04.Pizza_Calories.exe
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\04. Pizza Calories\obj\Debug\_04.Pizza_Calories.pdb

@@ -1,0 +1,13 @@
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\07. Employees and Projects\bin\Debug\netcoreapp2.0\07. Employees and Projects.deps.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\07. Employees and Projects\bin\Debug\netcoreapp2.0\07. Employees and Projects.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\07. Employees and Projects\bin\Debug\netcoreapp2.0\07. Employees and Projects.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\07. Employees and Projects\bin\Debug\netcoreapp2.0\07. Employees and Projects.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\07. Employees and Projects\bin\Debug\netcoreapp2.0\07. Employees and Projects.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\07. Employees and Projects\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\07. Employees and Projects\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\07. Employees and Projects\obj\Debug\netcoreapp2.0\07. Employees and Projects.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\07. Employees and Projects\obj\Debug\netcoreapp2.0\07. Employees and Projects.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\07. Employees and Projects\obj\Debug\netcoreapp2.0\07. Employees and Projects.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\07. Employees and Projects\obj\Debug\netcoreapp2.0\07. Employees and Projects.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\07. Employees and Projects\obj\Debug\netcoreapp2.0\07. Employees and Projects.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\07. Employees and Projects\obj\Debug\netcoreapp2.0\07. Employees and Projects.pdb

@@ -1,0 +1,13 @@
+C:\Users\Gabriela\source\repos\P03_SalesDatabase\SalesStartUp\bin\Debug\netcoreapp2.0\SalesStartUp.deps.json
+C:\Users\Gabriela\source\repos\P03_SalesDatabase\SalesStartUp\bin\Debug\netcoreapp2.0\SalesStartUp.runtimeconfig.json
+C:\Users\Gabriela\source\repos\P03_SalesDatabase\SalesStartUp\bin\Debug\netcoreapp2.0\SalesStartUp.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\P03_SalesDatabase\SalesStartUp\bin\Debug\netcoreapp2.0\SalesStartUp.dll
+C:\Users\Gabriela\source\repos\P03_SalesDatabase\SalesStartUp\obj\Debug\netcoreapp2.0\SalesStartUp.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\P03_SalesDatabase\SalesStartUp\obj\Debug\netcoreapp2.0\SalesStartUp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\P03_SalesDatabase\SalesStartUp\obj\Debug\netcoreapp2.0\SalesStartUp.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\P03_SalesDatabase\SalesStartUp\obj\Debug\netcoreapp2.0\SalesStartUp.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\P03_SalesDatabase\SalesStartUp\bin\Debug\netcoreapp2.0\SalesStartUp.pdb
+C:\Users\Gabriela\source\repos\P03_SalesDatabase\SalesStartUp\bin\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+C:\Users\Gabriela\source\repos\P03_SalesDatabase\SalesStartUp\bin\Debug\netcoreapp2.0\P03_SalesDatabase.pdb
+C:\Users\Gabriela\source\repos\P03_SalesDatabase\SalesStartUp\obj\Debug\netcoreapp2.0\SalesStartUp.dll
+C:\Users\Gabriela\source\repos\P03_SalesDatabase\SalesStartUp\obj\Debug\netcoreapp2.0\SalesStartUp.pdb

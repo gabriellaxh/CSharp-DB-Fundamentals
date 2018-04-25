@@ -1,0 +1,9 @@
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.deps.json
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.dll
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\P01_StudentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.pdb
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.dll
+C:\Users\Gabriela\source\repos\ENTITY RELATION EXERCISES\P01_StudentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.pdb

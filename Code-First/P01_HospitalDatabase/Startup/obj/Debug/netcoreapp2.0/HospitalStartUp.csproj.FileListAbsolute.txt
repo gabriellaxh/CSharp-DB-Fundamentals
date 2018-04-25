@@ -1,0 +1,15 @@
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\bin\Debug\netcoreapp2.0\HospitalStartUp.deps.json
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\bin\Debug\netcoreapp2.0\HospitalStartUp.runtimeconfig.json
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\bin\Debug\netcoreapp2.0\HospitalStartUp.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\bin\Debug\netcoreapp2.0\HospitalStartUp.dll
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\obj\Debug\netcoreapp2.0\HospitalStartUp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\obj\Debug\netcoreapp2.0\HospitalStartUp.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\obj\Debug\netcoreapp2.0\HospitalStartUp.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\bin\Debug\netcoreapp2.0\HospitalStartUp.pdb
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\obj\Debug\netcoreapp2.0\HospitalStartUp.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\obj\Debug\netcoreapp2.0\HospitalStartUp.dll
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\obj\Debug\netcoreapp2.0\HospitalStartUp.pdb
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.dll
+C:\Users\Gabriela\source\repos\P01_HospitalDatabase\Startup\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.pdb

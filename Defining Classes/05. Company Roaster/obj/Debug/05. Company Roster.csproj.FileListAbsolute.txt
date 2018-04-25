@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\01. Define a Class Person\05. Company Roaster\bin\Debug\_05.Company_Roaster.exe.config
+C:\Users\Gabriela\source\repos\01. Define a Class Person\05. Company Roaster\bin\Debug\_05.Company_Roaster.exe
+C:\Users\Gabriela\source\repos\01. Define a Class Person\05. Company Roaster\bin\Debug\_05.Company_Roaster.pdb
+C:\Users\Gabriela\source\repos\01. Define a Class Person\05. Company Roaster\obj\Debug\05. Company Roster.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\01. Define a Class Person\05. Company Roaster\obj\Debug\05. Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\01. Define a Class Person\05. Company Roaster\obj\Debug\_05.Company_Roaster.exe
+C:\Users\Gabriela\source\repos\01. Define a Class Person\05. Company Roaster\obj\Debug\_05.Company_Roaster.pdb

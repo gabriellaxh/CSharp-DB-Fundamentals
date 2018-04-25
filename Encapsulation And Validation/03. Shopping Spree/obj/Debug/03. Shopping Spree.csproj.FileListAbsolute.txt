@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\03. Shopping Spree\bin\Debug\_03.Shopping_Spree.exe.config
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\03. Shopping Spree\bin\Debug\_03.Shopping_Spree.exe
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\03. Shopping Spree\bin\Debug\_03.Shopping_Spree.pdb
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\03. Shopping Spree\obj\Debug\03. Shopping Spree.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\03. Shopping Spree\obj\Debug\03. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\03. Shopping Spree\obj\Debug\_03.Shopping_Spree.exe
+C:\Users\Gabriela\source\repos\ENCAPSULATION AND VALIDATION\03. Shopping Spree\obj\Debug\_03.Shopping_Spree.pdb

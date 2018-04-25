@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\05. Football Team Generator\obj\Debug\05. Football Team Generator.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\05. Football Team Generator\obj\Debug\05. Football Team Generator.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\05. Football Team Generator\bin\Debug\_05.Football_Team_Generator.exe.config
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\05. Football Team Generator\bin\Debug\_05.Football_Team_Generator.exe
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\05. Football Team Generator\bin\Debug\_05.Football_Team_Generator.pdb
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\05. Football Team Generator\obj\Debug\_05.Football_Team_Generator.exe
+C:\Users\Gabriela\source\repos\CSHARP OOP INTRO EXERCISE\05. Football Team Generator\obj\Debug\_05.Football_Team_Generator.pdb

@@ -1,0 +1,15 @@
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.App.deps.json
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.App.runtimeconfig.json
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.App.runtimeconfig.dev.json
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.App.dll
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\obj\Debug\netcoreapp2.0\ProductsShop.App.csprojResolveAssemblyReference.cache
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\obj\Debug\netcoreapp2.0\ProductsShop.App.csproj.CoreCompileInputs.cache
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\obj\Debug\netcoreapp2.0\ProductsShop.App.AssemblyInfoInputs.cache
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\obj\Debug\netcoreapp2.0\ProductsShop.App.AssemblyInfo.cs
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.App.pdb
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.Data.dll
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.Models.dll
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.Data.pdb
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\bin\Debug\netcoreapp2.0\ProductsShop.Models.pdb
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\obj\Debug\netcoreapp2.0\ProductsShop.App.dll
+c:\users\gabriela\source\repos\EXTERNAL FORMAT PROCESSING\ProductsShop.App\obj\Debug\netcoreapp2.0\ProductsShop.App.pdb

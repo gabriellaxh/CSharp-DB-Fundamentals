@@ -1,0 +1,13 @@
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\05. Employees from Research and Development\bin\Debug\netcoreapp2.0\05. Employees from Research and Development.deps.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\05. Employees from Research and Development\bin\Debug\netcoreapp2.0\05. Employees from Research and Development.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\05. Employees from Research and Development\bin\Debug\netcoreapp2.0\05. Employees from Research and Development.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\05. Employees from Research and Development\bin\Debug\netcoreapp2.0\05. Employees from Research and Development.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\05. Employees from Research and Development\bin\Debug\netcoreapp2.0\05. Employees from Research and Development.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\05. Employees from Research and Development\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\05. Employees from Research and Development\bin\Debug\netcoreapp2.0\03.EmployeeFullInformation.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\05. Employees from Research and Development\obj\Debug\netcoreapp2.0\05. Employees from Research and Development.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\05. Employees from Research and Development\obj\Debug\netcoreapp2.0\05. Employees from Research and Development.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\05. Employees from Research and Development\obj\Debug\netcoreapp2.0\05. Employees from Research and Development.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\05. Employees from Research and Development\obj\Debug\netcoreapp2.0\05. Employees from Research and Development.dll
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\05. Employees from Research and Development\obj\Debug\netcoreapp2.0\05. Employees from Research and Development.pdb
+C:\Users\Gabriela\source\repos\Introduction to Entity Framework\05. Employees from Research and Development\obj\Debug\netcoreapp2.0\05. Employees from Research and Development.csprojResolveAssemblyReference.cache
